@@ -19,5 +19,4 @@ app.get('/auth', (req, res) => {
     res.status(400).json({ error: 400 });
   }
 });
-
-app.listen(PORT, () => console.log(`open this link in your browser  http://localhost:5000`));
+app.listen(PORT);
