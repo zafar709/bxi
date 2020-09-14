@@ -12,7 +12,7 @@ $apt install python2
 
 $apt install git
 
-$git clone https://github.com/binyamin-binni
+$git clone https://github.com/binyamin-binni/bxi
 
 # Use
 
